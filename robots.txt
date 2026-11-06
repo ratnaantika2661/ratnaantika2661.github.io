@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digital.ddnsking.com/sitemap.xml
+Sitemap: https://digital.ddnsking.com/sitemap.html
